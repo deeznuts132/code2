@@ -1,0 +1,40 @@
+.header1 {
+    color:cornflowerblue;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 500%;
+}
+
+.intro {
+    margin-left: 40px;
+    margin-bottom: 20px;
+    margin-top: 50px;
+    font-size: 20px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: light;
+    color: rgb(122, 122, 122);
+}
+
+.paragraph {
+    margin-left: 40px;
+    margin-bottom: 20px;
+    margin-top: 50px;
+    font-size: 20px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: light;
+    color: rgb(122, 122, 122);
+}
+
+.outro {
+    margin-left: 40px;
+    margin-bottom: 20px;
+    margin-top: 50px;
+    font-size: 20px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: light;
+    color: rgb(122, 122, 122);
+}
